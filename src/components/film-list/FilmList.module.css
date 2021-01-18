@@ -1,0 +1,16 @@
+.listWrapper {
+		display: flex;
+		flex-wrap: wrap;
+		justify-content: space-between;
+		align-content: start;
+
+
+}
+.itemWrapper{
+		width: 30%;
+		border: 1px solid gainsboro;
+		border-radius: 5px;
+		height: 100%;
+
+
+}

@@ -26,7 +26,7 @@ function App() {
 		}
 		// const onSearchMovie = async () => {
 		// 		try {
-		// 				const promise = await generesService.getGeneres();
+		// 			git remote	const promise = await generesService.getGeneres();
 		// 				console.log(promise);
 		// 				 return promise
 		// 		} catch (e) {
