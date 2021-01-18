@@ -4,9 +4,7 @@
     <list default="true" id="c8e55aa7-6046-4aeb-be15-038fba8674dd" name="Default Changelist" comment="Practice-Movies-React">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
-    <list id="be2bc35b-c7f4-48bf-96b6-e4a90312fd10" name="Revert &quot;Practice-Movies-React&quot;" comment="Revert &quot;Practice-Movies-React&quot;&#10;&#10;This reverts commit 104eb02a">
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-    </list>
+    <list id="be2bc35b-c7f4-48bf-96b6-e4a90312fd10" name="Revert &quot;Practice-Movies-React&quot;" comment="Revert &quot;Practice-Movies-React&quot;&#10;&#10;This reverts commit 104eb02a" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +62,7 @@
       <workItem from="1610703994934" duration="12247000" />
       <workItem from="1610804057156" duration="13211000" />
       <workItem from="1610879554827" duration="21251000" />
-      <workItem from="1610961360557" duration="12015000" />
+      <workItem from="1610961360557" duration="12691000" />
     </task>
     <task id="LOCAL-00001" summary="Practice-Movies-React">
       <created>1610974373275</created>
@@ -94,11 +92,33 @@
       <option name="project" value="LOCAL" />
       <updated>1610975267371</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practice-Movies-React">
+      <created>1610975477672</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1610975477672</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ID_WIDTH">
+      <map>
+        <entry key="Table.Default.Date.ColumnIdWidth" value="127" />
+      </map>
+    </option>
+    <option name="COLUMN_ID_ORDER">
+      <list>
+        <option value="Default.Root" />
+        <option value="Default.Author" />
+        <option value="Default.Date" />
+        <option value="Default.Subject" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -130,8 +150,8 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Practice-Movies-React" />
     <MESSAGE value="Revert &quot;Practice-Movies-React&quot;&#10;&#10;This reverts commit 104eb02a" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Practice-Movies-React&quot;&#10;&#10;This reverts commit 104eb02a" />
+    <MESSAGE value="Practice-Movies-React" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice-Movies-React" />
   </component>
 </project>
