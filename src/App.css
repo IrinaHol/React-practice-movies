@@ -36,8 +36,3 @@
     transform: rotate(360deg);
   }
 }
-
-.mainMovieDetails {
-  display: flex;
-  justify-content: center;
-}
